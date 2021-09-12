@@ -1,0 +1,10 @@
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\bin\Debug\netcoreapp3.1\DemoDeliveryLibrary.deps.json
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\bin\Debug\netcoreapp3.1\DemoDeliveryLibrary.dll
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\bin\Debug\netcoreapp3.1\DemoDeliveryLibrary.pdb
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.csproj.AssemblyReference.cache
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.AssemblyInfoInputs.cache
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.AssemblyInfo.cs
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.dll
+C:\Users\JohnW\source\repos\DemoDeliveryLibrary\DemoDeliveryLibrary\obj\Debug\netcoreapp3.1\DemoDeliveryLibrary.pdb
